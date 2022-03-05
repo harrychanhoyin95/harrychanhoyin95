@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harry</h1>
 <h3 align="center">A self-learnt developer with passion</h3>
 
-- 🌱 I’m currently learning **Maths and Vue**
+- 🌱 I’m currently learning **AWS and Vue**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harrychanhoyin95](https://github.com/harrychanhoyin95)
 
