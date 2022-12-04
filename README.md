@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harrychanhoyin95@gmail.com**
 
-- 📄 Know about my experiences [harrychanhoyin95.com/](harrychanhoyin95.com/)
+- 📄 Know about my experiences [harrychanhoyin95.com/](https://www.harrychanhoyin95.com/)
 
 
 <h3 align="left">Languages and Tools:</h3>
